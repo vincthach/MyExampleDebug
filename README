@@ -1,0 +1,7 @@
+# BUỔI HỌC SỐ 2
+
+# Hướng dẫn sài git
+Git init (Dùng để khởi tạo git )
+Git log (Dùng để xem những thay đổi)
+Git commit -m "Tiêu đề commit" (Dùng để thêm 1 commit)
+Git status (Để xem những file thay đổi)

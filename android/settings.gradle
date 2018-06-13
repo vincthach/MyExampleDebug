@@ -1,0 +1,3 @@
+rootProject.name = 'MyExampleDebug'
+
+include ':app'
