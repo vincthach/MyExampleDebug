@@ -5,3 +5,10 @@ Git init (Dùng để khởi tạo git )
 Git log (Dùng để xem những thay đổi)
 Git commit -m "Tiêu đề commit" (Dùng để thêm 1 commit)
 Git status (Để xem những file thay đổi)
+Git add . (Đưa tất cả các file vào index)
+Git push origin [branch] 
+
+Bước 1: Git status -> kiểm tra các file thay đổi
+Bước 2: Git add . -> thêm file vào commit 
+Bước 3: Git commit -m "message" -> tạo commit
+Bước 4: Git push origin [branch] Push code lên
