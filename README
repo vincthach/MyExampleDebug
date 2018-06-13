@@ -2,13 +2,38 @@
 
 # Hướng dẫn sài git
 Git init (Dùng để khởi tạo git )
+
+#LỆNH HAY SÀI TRONG GIT
 Git log (Dùng để xem những thay đổi)
 Git commit -m "Tiêu đề commit" (Dùng để thêm 1 commit)
 Git status (Để xem những file thay đổi)
 Git add . (Đưa tất cả các file vào index)
-Git push origin [branch] 
+Git push origin [tên nhánh] 
 
+# CÁC BƯỚC COMMIT CODE
 Bước 1: Git status -> kiểm tra các file thay đổi
 Bước 2: Git add . -> thêm file vào commit 
 Bước 3: Git commit -m "message" -> tạo commit
-Bước 4: Git push origin [branch] Push code lên
+Bước 4: Git push origin [tên nhánh] Push code lên
+
+
+# MỜ DEBUG BẰNG ADB 
+adb shell input keyevent 82
+# MỞ IOS 
+Command + R
+
+
+# NẮM ĐƯỢC Ý NGHĨA FOREGROUND VÀ BACKGROUND LÀ GÌ
+FOREGROUND là gì?
+BACKGROUND là gì?
+MAIN UI THREAD
+BACKGROUND THREAD?
+
+# NẮM ĐƯỢC CONST VÀ LET LÀ GÌ
+
+# NẮM ĐƯỢC IMMUTABLE VÀ MUTABLE 
+
+# USE STRICT MODE TRONG JAVASCRIPT
+Thêm vào đầu file JAVASCRIPT
+không cho phép let, const class extends
+ngăn ngừa tình trạng biến được lên toàn cục khi quên gõ const hoặc let trước biến
